@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about code and programming
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: nothing, just being me
+- test, this is Enru
 <!---
 EnruRamadhan/EnruRamadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
